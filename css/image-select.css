@@ -12,3 +12,6 @@ ul.acf-image-select-list li input {
 .acf-image-select-list .acf-image-select .acf-image-select-selected img{
 	border: solid 4px #7A7A7A;
 }
+.acf-image-select-list .acf-image-select img {
+	padding: 5px;
+}
