@@ -1,0 +1,5 @@
+{
+    "name": "timezoneone/acf-image-select-master",
+    "description": "Adds a new choice field 'Image Select' field type to ACF field list to add image-select field.",
+    "type": "wordpress-plugin"
+}
